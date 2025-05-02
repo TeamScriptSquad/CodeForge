@@ -1,8 +1,8 @@
 <!-- Логотип (можно заменить на ваше изображение) -->
-  <h1 align="center">Script Squad</h1>
+  <h1 align="center">Code Forge</h1>
   
   <p align="center">
-    *ScriptSquad* — команда настоящих профессионалов в области информационных технологий. Наш коллектив объединяет опытных людей, готовых взяться за проекты любой сложности.
+    *Code Forge* — команда настоящих профессионалов в области информационных технологий. Наш коллектив объединяет опытных людей, готовых взяться за проекты любой сложности.
     <br />
     <a href="https://your-website.com"><strong>Посетите наш сайт »</strong></a>
     <br />
@@ -48,7 +48,7 @@
 
 ## 📫 Контакты
 
-- Вебсайт: [ScriptSquad](https://scriptsquad.usluga.me)
+- Вебсайт: [Code Forge](https://scriptsquad.usluga.me)
 - Email: team.scriptsquad@gmail.com
 - Telegram: [Менеджер](https://t.me/zhutyaevivan)  или  [Главный разработчик](https://t.me/RodionScriptSquad)
 
