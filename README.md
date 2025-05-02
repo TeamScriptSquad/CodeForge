@@ -61,6 +61,6 @@
 
 <div align="center">
   
-  <sub>Сделано с ❤️ командой <a href="https://github.com/TeamScriptSquad">ScriptSquad</a></sub>
+  <sub>Сделано с ❤️ командой <a href="https://github.com/TeamScriptSquad">Code Forge</a></sub>
   
 </div>
